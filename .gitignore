@@ -1,0 +1,4 @@
+.DS_Store
+.vscode
+equinews-service-key.json
+__pycache__
